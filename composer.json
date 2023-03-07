@@ -1,4 +1,5 @@
-{
+{   "name": "tina4components/mod-login",
+    "description": "Tina4 Login Module",
     "require": {
         "tina4stack/tina4php": "dev-master"
     },
