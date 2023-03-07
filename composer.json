@@ -19,6 +19,9 @@
         "src/routes/*"
     ],
     "autoload": {
+        "files": [
+            "loadModule.php"
+        ],
         "psr-4": {
             "\\": [
                 "src/",
